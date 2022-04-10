@@ -1,0 +1,21 @@
+/* Header_header */
+
+.header_facebook
+{
+    background-color: blue;
+}
+
+nav, ul, li
+{
+    display: inline-block;
+}
+
+.text_background
+{
+    background-color: skyblue;
+}
+
+.friend_background
+{
+    background-color: grey;
+}
